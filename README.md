@@ -8,3 +8,7 @@ This is a sample readme file for our GitHub Example repo. We're learning Markdow
 
 ## Link Example
 [The tutorial I'm following to make this README](https://www.youtube.com/watch?v=yXY3f9jw7fg) 
+
+1. Item One
+2. Item Two
+3. Item Three
